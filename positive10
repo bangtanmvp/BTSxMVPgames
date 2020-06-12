@@ -1,0 +1,68 @@
+<html>
+<script language="JavaScript">
+<!--hide
+var password;
+var pass1="help me nat idk the answer"
+password=prompt('Enter your answer below to view the next part','');
+if (password==pass1)
+alert('Correct answer, click ok to enter.');
+else
+{
+window.location="https://bangtanmvp.github.io/BTSxMVPgames/hoseok10.html";
+}
+//-->
+  </script>
+
+<head>
+
+    <meta content='width=device-width, initial-scale=1' name='viewport'/>
+
+</head>
+
+<body style ="background-color:#c9d1f8">
+
+    <h3>Riddle 10: Part 2</h3>
+
+    <p> Congrats on getting the right answers!</p>
+
+    <p> </p>
+    <p>On this wonderous journey together</p>
+    <p>We spread our wings with ARMYs to feel better</p>
+    <p>To unveil the hidden backstage path</p>
+    <p>And to show all the tears and laughs</p>
+    <p>Once you figure out the name of this event</p>
+    <p>Enter in the number of filmed days that was presented</p>
+    <p> </p>
+
+    <fieldset>
+
+    <p>
+
+        <button onclick=window.location="https://bangtanmvp.github.io/BTSxMVPgames/season10.html";>
+
+      Enter Answer Here
+
+    </button>
+
+          </p>
+
+     <p> This answer will be numerical</p>
+
+     <p> Wrong answers will take you back to this page</p>
+
+        </fieldset>
+
+          </p>
+
+    <p> </p>
+
+    <p>You're welcome to go into main chat for some hints...be careful if they're tricks hehe</p>
+    <p>If you think you got the right answer but it's not working, feel free to tag @Nat @Cyn @Devi for help in main chat</p>
+
+    
+
+    </body>
+
+
+
+</html>
